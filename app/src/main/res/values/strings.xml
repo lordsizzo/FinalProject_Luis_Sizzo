@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fake Store Luis Sizzo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category">Category</string>
+    <string name="maybe_you_like">Maybe you like</string>
+    <string name="our_products">Our products</string>
+    <string name="categories">Categories</string>
+    <string name="loading">Loading...</string>
+</resources>
